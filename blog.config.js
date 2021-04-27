@@ -2,7 +2,7 @@ const BLOG = {
   title: 'notionblog演示站点',
   author: '静态博客',
   email: 'admin@jingtaiboke.com',
-  link: 'https://notionblog.vercel.app',
+  link: 'https://ntblog.vercel.app',
   description: '演示站点,描述.',
   lang: 'en-US',
   appearance: 'dark', // ['light', 'dark', 'auto'],
