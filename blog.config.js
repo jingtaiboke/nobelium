@@ -1,11 +1,11 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  title: 'notionblog演示站点',
+  author: '静态博客',
+  email: 'admin@jingtaiboke.com',
+  link: 'https://notionblog.vercel.app',
+  description: '演示站点,描述.',
   lang: 'en-US',
-  appearance: 'auto', // ['light', 'dark', 'auto'],
+  appearance: 'dark', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#111827', // use hex value, don't forget '#'
@@ -13,9 +13,9 @@ const BLOG = {
   since: 2021, // if leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
-  showAbout: true, // WIP
+  showAbout: false, // WIP
   showArchive: true, // WIP
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://jingtaiboke.com',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
